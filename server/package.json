@@ -6,7 +6,6 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
-    
   },
   "author": "",
   "license": "ISC",
@@ -17,7 +16,8 @@
     "express": "^4.18.2",
     "mongoose": "^6.8.2",
     "nodemon": "^2.0.20",
-    "openai": "^3.1.0"
+    "openai": "^3.1.0",
+    "project_ai_mern_image_generation": "file:.."
   },
   "devDependencies": {
     "eslint": "^8.31.0",
